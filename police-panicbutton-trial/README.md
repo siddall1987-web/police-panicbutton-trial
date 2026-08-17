@@ -27,7 +27,7 @@ This trial version includes reduced functionality:
 - Console message indicating trial version
 - No configuration options for cooldown or duration
 
-Upgrade to the full version for:
+COMING SOON
 - Customizable blip duration  
 - Custom cooldown settings  
 - Custom dispatch messages  
@@ -78,7 +78,7 @@ Trial version developed for public testing and feedback.
 ---
 
 ## ⭐ Full Version
-The full version includes additional features, customization options, and extended functionality.
+NOT YET AVALIBLE
 
 The full version is currently in development and will be released soon.
 Follow this repository for updates on the upcoming full release.
