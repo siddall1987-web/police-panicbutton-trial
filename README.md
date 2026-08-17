@@ -6,18 +6,6 @@ It allows server owners to test the core functionality before upgrading to the f
 
 ---
 
-## 🔥 Features Included in Trial
-- Panic button activation via command or keybind
-- ps-dispatch alert integration
-- Police-wide notification system
-- Sound alert on activation
-- Temporary map blip (20 seconds)
-- Cooldown system (45 seconds)
-- Trial notifications
-- Trial console message on startup
-
----
-
 ## 🚨 Trial Limitations
 This trial version includes reduced functionality:
 
@@ -27,7 +15,7 @@ This trial version includes reduced functionality:
 - Console message indicating trial version
 - No configuration options for cooldown or duration
 
-Upgrade to the full version for:
+ Upgrade version :Coming Soon
 - Customizable blip duration  
 - Custom cooldown settings  
 - Custom dispatch messages  
@@ -78,7 +66,7 @@ Trial version developed for public testing and feedback.
 ---
 
 ## ⭐ Full Version
-The full version includes additional features, customization options, and extended functionality.
+Not Yet Avalible 
 
 The full version is currently in development and will be released soon.
 Follow this repository for updates on the upcoming full release.
