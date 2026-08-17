@@ -78,7 +78,7 @@ Trial version developed for public testing and feedback.
 ---
 
 ## ⭐ Full Version
-NOT YET AVALIBLE
+NOT YET AVAILABLE
 
 The full version is currently in development and will be released soon.
 Follow this repository for updates on the upcoming full release.
