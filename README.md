@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31157001/README.md)
- README.md
+README.md
 # Police Panic Button (Trial Version)
 
 This is the **trial version** of the Police Panic Button resource for QBCore.  
